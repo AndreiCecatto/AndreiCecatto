@@ -6,16 +6,6 @@ Tenho interesse em **desenvolvimento de software e aplicações web**.
 
 ---
 
-## Áreas de interesse
-
-* Desenvolvimento backend
-* Desenvolvimento de aplicações web
-* APIs e serviços REST
-* Bancos de dados e persistência de dados
-* Arquitetura e organização de aplicações
-
----
-
 ## Tecnologias
 
 ### Frameworks e bibliotecas
