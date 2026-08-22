@@ -18,7 +18,7 @@ JSP · JPA · JDBC · APIs REST
 
 ### Banco de Dados
 
-PostgreSQL · MySQL · MongoDB · SQL
+PostgreSQL · MySQL · MongoDB 
 
 ### Ferramentas e ambientes
 
