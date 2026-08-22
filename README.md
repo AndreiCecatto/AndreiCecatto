@@ -1,16 +1,78 @@
-## Hi there 👋
+# Olá, sou o Andrei Cecatto
 
-<!--
-**AndreiCecatto/AndreiCecatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas para Internet** na **Universidade Federal de Santa Maria (UFSM)**, atualmente no 4º semestre.
 
-Here are some ideas to get you started:
+Tenho interesse em **desenvolvimento de software e aplicações web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Áreas de interesse
+
+* Desenvolvimento backend
+* Desenvolvimento de aplicações web
+* APIs e serviços REST
+* Bancos de dados e persistência de dados
+* Arquitetura e organização de aplicações
+
+---
+
+## Tecnologias
+
+### Frameworks e bibliotecas
+
+Spring Boot · Bootstrap 5 · Django
+
+### Desenvolvimento Web
+
+JSP · JPA · JDBC · APIs REST
+
+### Banco de Dados
+
+PostgreSQL · MySQL · MongoDB · SQL
+
+### Ferramentas e ambientes
+
+Git · GitHub · Maven · Flyway · Docker · WildFly · IntelliJ IDEA · Visual Studio Code · Apache
+
+---
+
+## Linguagens de programação
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+</p>
+
+### Tecnologias Web
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
+</p>
+
+---
+
+## Conhecimentos e práticas
+
+* Arquitetura MVC
+* Desenvolvimento em camadas
+* DAO, Service e Controller
+* Operações CRUD
+* Persistência de dados
+* Integração com bancos de dados
+* Desenvolvimento de APIs REST
+* Versionamento de banco de dados
+* Controle de versão com Git e GitHub
+
+---
+
+## Objetivos
+
+* Adquirir experiência profissional em desenvolvimento de software
+* Aprofundar meus conhecimentos em backend
+* Evoluir na construção de aplicações web
+* Participar de projetos colaborativos
+* Continuar aprendendo novas tecnologias e boas práticas de desenvolvimento
