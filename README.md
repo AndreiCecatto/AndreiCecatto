@@ -1,68 +1,37 @@
-# Olá, sou o Andrei Cecatto
+<div align="center">
 
-Estudante de **Sistemas para Internet** na **Universidade Federal de Santa Maria (UFSM)**, atualmente no 4º semestre.
+![header](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/header.svg)
 
-Tenho interesse em **desenvolvimento de software e aplicações web**.
+Sempre gostei de computação. Antes da faculdade, cheguei a cursar Técnico em Informática no IFFar de Júlio de Castilhos por um ano e meio, e foi lá que fui me interessando aos poucos por desenvolvimento. Hoje curso Sistemas para Internet na UFSM (4º semestre) e é essa a área que quero seguir.
 
----
+Trabalho principalmente com Java e Spring Boot, mas já passei por PHP, JavaScript e Python em disciplinas e projetos da facul.
 
-## Tecnologias
+![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
-### Frameworks e bibliotecas
+`// construindo`
 
-Spring Boot · Bootstrap 5 · Django
+**[StockHub](https://github.com/AndreiCecatto/StockHub)**
+Sistema de gerenciamento de estoque em Java e Spring Boot — CRUD de produtos e categorias, controle de estoque mínimo e persistência em PostgreSQL via JPA/Hibernate, arquitetura em camadas (Controller → Service → Repository).
 
-### Desenvolvimento Web
+![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
-JSP · JPA · JDBC · APIs REST
+`// stack`
 
-### Banco de Dados
+![Skills](https://skillicons.dev/icons?i=java,spring,js,python,postgres,mysql,mongodb,docker,git)
 
-PostgreSQL · MySQL · MongoDB 
+![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
-### Ferramentas e ambientes
+`// agora`
 
-Git · GitHub · Maven · Flyway · Docker · WildFly · IntelliJ IDEA · Visual Studio Code · Apache
+Em busca da minha primeira oportunidade na área — estágio ou bolsa.
+Até aqui, o que pratiquei foi em aula e nesse projeto.
 
----
+Fora do código, gosto de sair com amigos e jogar.
 
-## Linguagens de programação
+![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-</p>
+`// contato`
 
-### Tecnologias Web
+[LinkedIn](#) · [Email](mailto:seu@email.com)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
-</p>
-
----
-
-## Conhecimentos e práticas
-
-* Arquitetura MVC
-* Desenvolvimento em camadas
-* DAO, Service e Controller
-* Operações CRUD
-* Persistência de dados
-* Integração com bancos de dados
-* Desenvolvimento de APIs REST
-* Versionamento de banco de dados
-* Controle de versão com Git e GitHub
-
----
-
-## Objetivos
-
-* Adquirir experiência profissional em desenvolvimento de software
-* Aprofundar meus conhecimentos em backend
-* Evoluir na construção de aplicações web
-* Participar de projetos colaborativos
-* Continuar aprendendo novas tecnologias e boas práticas de desenvolvimento
+</div>
