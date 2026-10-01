@@ -2,16 +2,18 @@
 
 ![header](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/header.svg)
 
-Sempre gostei de computação. Antes da faculdade, cheguei a cursar Técnico em Informática no IFFar de Júlio de Castilhos por um ano e meio, e foi lá que fui me interessando aos poucos por desenvolvimento. Hoje curso Sistemas para Internet na UFSM (4º semestre) e é essa a área que quero seguir.
+Comecei no técnico em informática do IFFar, em Júlio de Castilhos. Não cheguei a terminar — mas foi lá que descobri que gostava mesmo de programar.
 
-Trabalho principalmente com Java e Spring Boot, mas já passei por PHP, JavaScript e Python em disciplinas e projetos da facul.
+Hoje sigo em Sistemas para Internet na UFSM, 4º semestre. Backend é onde eu quero construir carreira.
+
+Base: Java e Spring Boot. PHP, JavaScript e Python entraram pelo caminho, em projetos da facul.
 
 ![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
 `// construindo`
 
 **[StockHub](https://github.com/AndreiCecatto/StockHub)**
-Sistema de gerenciamento de estoque em Java e Spring Boot — CRUD de produtos e categorias, controle de estoque mínimo e persistência em PostgreSQL via JPA/Hibernate, arquitetura em camadas (Controller → Service → Repository).
+Gerenciamento de estoque, do zero. CRUD de produtos e categorias, controle de estoque mínimo, persistência em PostgreSQL via JPA/Hibernate. Arquitetura em camadas: Controller → Service → Repository.
 
 ![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
@@ -23,11 +25,9 @@ Sistema de gerenciamento de estoque em Java e Spring Boot — CRUD de produtos e
 
 `// agora`
 
-Em busca da minha primeira oportunidade na área — estágio ou bolsa.
-Até aqui, o que pratiquei foi em aula e nesse projeto.
+Procurando minha primeira vaga — estágio ou bolsa.
+O que eu sei, aprendi em aula e construindo esse projeto. Sem atalho.
 
-Fora do código, gosto de sair com amigos e jogar.
 
-![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
 </div>
