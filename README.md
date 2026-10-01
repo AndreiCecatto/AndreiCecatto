@@ -30,8 +30,4 @@ Fora do código, gosto de sair com amigos e jogar.
 
 ![divider](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/divider.svg)
 
-`// contato`
-
-[LinkedIn](#) · [Email](mailto:seu@email.com)
-
 </div>
