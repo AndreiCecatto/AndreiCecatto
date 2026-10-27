@@ -2,7 +2,7 @@
 
 ![header](https://raw.githubusercontent.com/AndreiCecatto/AndreiCecatto/main/header.svg)
 
-Comecei no técnico em informática do IFFar, em Júlio de Castilhos. Não cheguei a terminar — mas foi lá que descobri que gostava mesmo de programar.
+Comecei no técnico em informática do IFFar, em Júlio de Castilhos. Não cheguei a terminar, mas foi lá que descobri que gostava mesmo de programar.
 
 Hoje sigo em Sistemas para Internet na UFSM, 4º semestre. Backend é onde eu quero construir carreira.
 
@@ -25,7 +25,7 @@ Gerenciamento de estoque, do zero. CRUD de produtos e categorias, controle de es
 
 `// agora`
 
-Procurando minha primeira vaga — estágio ou bolsa.
+Procurando minha primeira vaga de estágio ou bolsa.
 O que eu sei, aprendi em aula e construindo esse projeto. Sem atalho.
 
 
